@@ -6,6 +6,12 @@ Design a Verilog module that replicates the operation of the CD4017 integrated c
 
 ![image](https://github.com/CroosJJSE/SparkLink_1.0_Task_2/assets/141708783/6fa6fbb8-c580-4309-84b4-b2629704bd4a)
 
+
+only one of the output should be 1 others zero, it should be changing with clock.
+![image](https://github.com/CroosJJSE/SparkLink_1.0_Task_2/assets/141708783/16f23834-e308-4ad6-aa7d-2a8d520be1dd)
+
+
+
 # timing diagram
 ![image](https://github.com/CroosJJSE/SparkLink_1.0_Task_2/assets/141708783/a8fb9554-53b6-4778-84fc-0ecddbf8f66b)
 
